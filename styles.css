@@ -81,7 +81,6 @@ header {
 }
 
 .header__container {
-    padding-top: 24px;
     width: 100%;
     max-width: 720px;
     margin: 0 auto;
@@ -132,10 +131,8 @@ button:active {
     z-index: 2;
 }
 
-
-
 .container {
-  padding: 56px 0;
+  padding: 100px 0;
 }
 
 .row {
@@ -168,7 +165,6 @@ HIGHLIGHTS
     background-size: cover;
     background-repeat: no-repeat;
     transform: translateY(-100%);
-
 }
 
 #highlights:after {
